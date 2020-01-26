@@ -5,3 +5,7 @@ Before running this tutorial, you will need to setup the ensembl API repo ath th
 where you want to run this program.
 
 The installation instruction and sample core API tutorial are mentioned at http://asia.ensembl.org/info/docs/api/core/core_tutorial.html
+
+
+Sample usage:
+perl map_coordinates.pl inputfile.txt
